@@ -9,3 +9,6 @@ A curated list of bookmarks, packages, tutorials, videos and other cool resource
 * [Javascript Pattern 2](https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know)
 * [EDM](https://foundation.zurb.com/emails.html)
 
+### React + Redux + Curated
+* [reactjs](https://github.com/reactjs)
+* [awesome-react-components](https://github.com/brillout/awesome-react-components)
