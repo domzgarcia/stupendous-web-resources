@@ -14,4 +14,5 @@ A curated list of bookmarks, packages, tutorials, videos and other cool resource
 * [awesome-react-components](https://github.com/brillout/awesome-react-components)
 * [reacttraining](https://reacttraining.com/react-router/core/guides/testing)
 * [React-chart](https://github.com/ReactTraining/react-workshop/blob/master/slides/Lifecycle.pdf)
+* [reactpatterns](http://reactpatterns.com/)
 
